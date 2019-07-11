@@ -3,15 +3,6 @@ layout: post
 title:  "Welcome to the other side!"
 date:   2019-05-07 21:00:00 +0300
 categories: welcome
-#`jekyll serve`
-# {% highlight ruby %}
-# def print_hi(name)
-#   puts "Hi, #{name}"
-# end
-# print_hi('Tom')
-# #=> prints 'Hi, Tom' to STDOUT.
-# {% endhighlight %}
-# [Jekyll docs][link-here]
 ---
 
 Hi, everyone!

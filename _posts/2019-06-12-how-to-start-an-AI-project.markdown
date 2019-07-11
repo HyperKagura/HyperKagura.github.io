@@ -4,15 +4,6 @@ title:  "How to start building AI"
 date:   2019-06-12 21:00:00 +0300
 categories: AI BirdDetector
 description: "Firstly, sit on the sofa to harness the power of boredom"
-#`jekyll serve`
-# {% highlight ruby %}
-# def print_hi(name)
-#   puts "Hi, #{name}"
-# end
-# print_hi('Tom')
-# #=> prints 'Hi, Tom' to STDOUT.
-# {% endhighlight %}
-# [Jekyll docs][link-here]
 ---
 
 Greetings, stranger!

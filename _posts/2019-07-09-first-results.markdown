@@ -4,15 +4,6 @@ title:  "First BirdDetector is ready!"
 date:   2019-06-12 21:00:00 +0300
 categories: AI BirdDetector
 description: "Breaking news: it is actually working"
-#`jekyll serve`
-# {% highlight ruby %}
-# def print_hi(name)
-#   puts "Hi, #{name}"
-# end
-# print_hi('Tom')
-# #=> prints 'Hi, Tom' to STDOUT.
-# {% endhighlight %}
-# [Jekyll docs][link-here]
 ---
 
 Hello, all the curious creatures!

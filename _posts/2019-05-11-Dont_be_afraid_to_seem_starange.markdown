@@ -4,15 +4,6 @@ title:  "Don't be afraid to seem crazy!"
 date:   2019-05-11 21:00:00 +0300
 categories: AI BirdDetector
 description: "If you want an ice-cream with hot pepper, just make it"
-#`jekyll serve`
-# {% highlight ruby %}
-# def print_hi(name)
-#   puts "Hi, #{name}"
-# end
-# print_hi('Tom')
-# #=> prints 'Hi, Tom' to STDOUT.
-# {% endhighlight %}
-# [Jekyll docs][link-here]
 ---
 
 Hi, all!
