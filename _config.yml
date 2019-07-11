@@ -17,7 +17,7 @@ title: HyperKagura's Computer Science survival blog
 email: kirnad@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   True stories about work, fun and life in IT.
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "hyperkagura" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: HyperKagura28
 github_username:  HyperKagura
