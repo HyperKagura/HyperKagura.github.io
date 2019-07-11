@@ -32,9 +32,9 @@ So, my growing interest over Neural Networks whispered to my ear: "Try Convoluti
 And I just did it. I have to say the results have exceeded all the expectations.
 2 hours of training gave me a 91% accurate system!
 
-![Sad Birdie-Dog Noises](/assets/images/posts/sad_noises.JPG)
+![Sad Birdie-Dog Noises](/assets/images/posts/sad_noises.jpg)
 
 I have also organized a [Turing Test](https://en.wikipedia.org/wiki/Turing_test),
 and the machine was just as good as people. Check this out!
 
-![Lama-Swan](/assets/images/posts/lama-swan.JPG) ![Dogie-Bird](/assets/images/posts/dogie-bird.JPG)
+![Lama-Swan](/assets/images/posts/lama-swan.jpg) ![Dogie-Bird](/assets/images/posts/dogie-bird.jpg)
